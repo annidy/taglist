@@ -1,0 +1,16 @@
+{
+  "name": "taglist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "taglist.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node taglist.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "iconv-lite": "^0.5.0",
+    "node-id3-reader": "^1.0.2"
+  }
+}
